@@ -38,17 +38,6 @@ Welcome to **Gp.ai**, a powerful SaaS application built for creators, marketers,
 - 🧠 **AI/ML APIs**: Gemini API, ClipDrop API
 - 📋 **Clipboard API**: For easy copy/paste of generated content
 
-- <img width="1886" height="851" alt="image" src="https://github.com/user-attachments/assets/7f52af74-b682-42bc-a532-c7cea0caa126" />
-- <img width="1881" height="864" alt="image" src="https://github.com/user-attachments/assets/a1fcbc87-5302-4fe6-9473-e4ee4b16f324" />
-- <img width="1869" height="835" alt="image" src="https://github.com/user-attachments/assets/d47a3fd4-9d2f-4d90-b845-b9ff91fd9b6f" />
-- <img width="1887" height="851" alt="image" src="https://github.com/user-attachments/assets/d54a01af-31e5-4d18-bc08-0dde5a9229ae" />
-- <img width="1894" height="863" alt="image" src="https://github.com/user-attachments/assets/2ba05dec-e61b-48f2-a017-6770b3febf8b" />
-
-
-
-
-
-
 ---
 
 ## 🧪 Setup Instructions
@@ -97,6 +86,4 @@ bash
 node server.js
 
 
-🙋‍♂️ Made by
-Gopal Verma
-📧 Email: vermagopal1625@gmail.com
+
