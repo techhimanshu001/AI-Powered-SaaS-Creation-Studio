@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+
+*{
+  font-family: "Outfit", sans-serif;
+}
+
+@theme{
+  --color-primary: #7851A9;
+}
+
+.reset-tw , .reset-tw *{
+   all: revert !important;
+}
+
+.cl-drawerRoot{
+  z-index: 10;
+}
